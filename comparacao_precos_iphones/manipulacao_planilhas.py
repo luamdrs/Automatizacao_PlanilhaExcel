@@ -1,5 +1,3 @@
-# manipulacao_planilhas.py
-
 import openpyxl
 
 # Função para criar o workbook e adicionar uma planilha

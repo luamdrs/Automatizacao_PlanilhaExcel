@@ -1,5 +1,3 @@
-# main.py
-
 from manipulacao_planilhas import (
     create_sheet, adicionar_novo_modelo, atualizar_preco, 
     excluir_modelo, filtrar_por_preco, salvar_arquivo
